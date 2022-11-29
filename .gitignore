@@ -1,0 +1,7 @@
+*.sublime-project
+*.sublime-workspace
+*.bin
+*.txt
+*.o
+*.exe
+history
